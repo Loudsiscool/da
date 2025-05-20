@@ -1,0 +1,15 @@
+{
+    "Name": "Saber Boss Rush",
+    "Description": "AFK FARM SABER BOSS RUSH WITH EZ UNITS",
+    "Author": "Loudsiscool",
+    "Version": "1.0",
+    "Image": "https://i.postimg.cc/MpT87nB8/image-2025-05-20-105703849.png",
+    "Tags": {
+        "Type": "TinyTask",
+        "Resolution": "1920x1080"
+    },
+    "Main": "salter.rec",
+    "MangoID": "Mango-5kfuvi",
+    "bigthumbnail": "https://i.postimg.cc/QMKkvZPy/image-2025-05-20-105846943.png",
+    "Game": "BubbleGumSim"
+}
