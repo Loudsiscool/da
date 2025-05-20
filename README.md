@@ -8,13 +8,7 @@
 
 <img align="left" height="" src="https://i.ibb.co/4Zz0wjkW/image-2025-05-20-104628325.png"  />
 
-###
 
-<br clear="both">
-
-<div align="left">
-  <img height="" src="https://i.ibb.co/xq3SJSLB/image-2025-05-20-104735524.png"  />
-</div>
 
 ###
 
